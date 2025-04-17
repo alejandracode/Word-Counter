@@ -43,24 +43,6 @@ npm start
 
 Abre http://localhost:3000 en tu navegador.
 
-Estructura del Proyecto:
-
-Contador-de-Palabras/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   ├── MainComponent.jsx
-│   │   ├── TextArea.jsx
-│   │   ├── StatsCard.jsx
-│   │   └── ClearButton.jsx
-│   ├── styles/
-│   │   └── tailwind.css
-│   ├── App.jsx
-│   └── index.js
-├── package.json
-└── tailwind.config.js
-
 Autor:
 
 Desarrollado por Alejandra Girón
