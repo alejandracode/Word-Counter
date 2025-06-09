@@ -59,5 +59,7 @@ npm start
 ## 👩‍💻 Autora
 
 Alejandra Girón
+
 📧 alejandragironmira@gmail.com
+
 💻 GitHub: alejandracode
