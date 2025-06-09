@@ -1,4 +1,5 @@
 Contador de Palabras
+![Captura de pantalla](assets/screenshot.png)
 
 Una aplicación web interactiva creada con React y Tailwind CSS para contar palabras, caracteres (con y sin espacios) y limpiar texto de forma eficiente. Su diseño es moderno, responsivo y visualmente atractivo.
 
